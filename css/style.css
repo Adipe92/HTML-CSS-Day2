@@ -1,0 +1,18 @@
+ul {
+    list-style: none;
+    overflow: auto;
+    background-color: gray;
+}
+
+.nav-items {
+    float: left;
+    padding-right: 10px;
+}
+
+.pos-relative {
+    position: relative;
+}
+
+.hero {
+    
+}
